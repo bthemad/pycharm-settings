@@ -8,7 +8,6 @@
       <roots>
         <classPath>
           <root type="composite">
-            <root type="simple" url="file:///Library/Python/2.7/site-packages/pdbpp-0.7.2-py2.7.egg" />
             <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
             <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
             <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
@@ -16,7 +15,6 @@
             <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python" />
             <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
             <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
-            <root type="simple" url="file://$USER_HOME$/Library/Python/2.7/lib/python/site-packages" />
             <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/PyObjC" />
             <root type="simple" url="file:///Library/Python/2.7/site-packages" />
             <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
@@ -30,23 +28,24 @@
       <additional />
     </jdk>
     <jdk version="2">
-      <name value="Python 2.7.10 virtualenv at ~/.virtualenvs/alch" />
+      <name value="Python 2.7.10 virtualenv at ~/.virtualenvs/duckfront" />
       <type value="Python SDK" />
       <version value="Python 2.7.10" />
-      <homePath value="$USER_HOME$/.virtualenvs/alch/bin/python" />
+      <homePath value="$USER_HOME$/.virtualenvs/duckfront/bin/python" />
       <roots>
         <classPath>
           <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/.virtualenvs/alch/lib/python2.7" />
-            <root type="simple" url="file://$USER_HOME$/.virtualenvs/alch/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/duckfront/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/duckfront/lib/python2.7/lib-dynload" />
             <root type="simple" url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
             <root type="simple" url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
             <root type="simple" url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
             <root type="simple" url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
             <root type="simple" url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-            <root type="simple" url="file://$USER_HOME$/.virtualenvs/alch/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/duckfront/lib/python2.7/site-packages" />
             <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
-            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/python_stubs/-514933486" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/python_stubs/-662778348" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/duckfront/lib/python2.7/site-packages/newrelic-2.42.0.35" />
           </root>
         </classPath>
         <sourcePath>

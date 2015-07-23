@@ -17,7 +17,11 @@
       <component name="ProjectModuleManager">
         <modules />
       </component>
-      <component name="ProjectRootManager" version="2" />
+      <component name="ProjectRootManager" version="2" project-jdk-name="Python 2.7.10 virtualenv at ~/.virtualenvs/duckfront" project-jdk-type="Python SDK" />
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+        <property name="settings.editor.splitter.proportion" value="0.2" />
+      </component>
     </defaultProject>
   </component>
 </application>
