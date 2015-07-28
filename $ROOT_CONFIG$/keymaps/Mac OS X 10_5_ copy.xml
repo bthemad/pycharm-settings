@@ -19,14 +19,6 @@
   <action id="EditorDeleteToWordStartInDifferentHumpsMode">
     <keyboard-shortcut first-keystroke="control BACK_SPACE" />
   </action>
-  <action id="EditorNextWord">
-    <keyboard-shortcut first-keystroke="alt RIGHT" />
-    <keyboard-shortcut first-keystroke="control alt F" />
-  </action>
-  <action id="EditorPreviousWord">
-    <keyboard-shortcut first-keystroke="alt LEFT" />
-    <keyboard-shortcut first-keystroke="control alt B" />
-  </action>
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta 7" />
   </action>
