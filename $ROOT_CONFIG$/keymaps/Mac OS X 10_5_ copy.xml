@@ -19,6 +19,14 @@
   <action id="EditorDeleteToWordStartInDifferentHumpsMode">
     <keyboard-shortcut first-keystroke="control BACK_SPACE" />
   </action>
+  <action id="EditorDownWithSelection">
+    <keyboard-shortcut first-keystroke="shift DOWN" />
+    <keyboard-shortcut first-keystroke="shift control N" />
+  </action>
+  <action id="EditorUpWithSelection">
+    <keyboard-shortcut first-keystroke="shift UP" />
+    <keyboard-shortcut first-keystroke="shift control P" />
+  </action>
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta 7" />
   </action>
