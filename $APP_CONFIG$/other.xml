@@ -50,6 +50,7 @@
   <component name="PyTestFrameworkService">
     <option name="SDK_TO_PYTEST">
       <map>
+        <entry key="$USER_HOME$/.virtualenvs/dj/bin/python" value="false" />
         <entry key="$USER_HOME$/.virtualenvs/duckfront/bin/python" value="false" />
         <entry key="ssh://vagrant@127.0.0.1:2222/home/vagrant/.virtualenvs/duckfront/bin/python" value="false" />
         <entry key="vagrant:///Users/alex/newrelic/ducktape/vagrant/home/vagrant/.virtualenvs/duckfront/bin/python" value="false" />
@@ -57,6 +58,7 @@
     </option>
     <option name="SDK_TO_NOSETEST">
       <map>
+        <entry key="$USER_HOME$/.virtualenvs/dj/bin/python" value="false" />
         <entry key="$USER_HOME$/.virtualenvs/duckfront/bin/python" value="false" />
         <entry key="ssh://vagrant@127.0.0.1:2222/home/vagrant/.virtualenvs/duckfront/bin/python" value="false" />
         <entry key="vagrant:///Users/alex/newrelic/ducktape/vagrant/home/vagrant/.virtualenvs/duckfront/bin/python" value="false" />
@@ -64,6 +66,7 @@
     </option>
     <option name="SDK_TO_ATTEST">
       <map>
+        <entry key="$USER_HOME$/.virtualenvs/dj/bin/python" value="false" />
         <entry key="$USER_HOME$/.virtualenvs/duckfront/bin/python" value="false" />
         <entry key="ssh://vagrant@127.0.0.1:2222/home/vagrant/.virtualenvs/duckfront/bin/python" value="false" />
         <entry key="vagrant:///Users/alex/newrelic/ducktape/vagrant/home/vagrant/.virtualenvs/duckfront/bin/python" value="false" />
