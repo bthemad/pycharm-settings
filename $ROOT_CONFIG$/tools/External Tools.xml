@@ -2,8 +2,8 @@
   <tool name="flake8" description="Flake8" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="/usr/local/bin/flake8" />
-      <option name="PARAMETERS" value="$FilePath$" />
-      <option name="WORKING_DIRECTORY" value="/usr/local/bin" />
+      <option name="PARAMETERS" value="--exclude=$ProjectFileDir$/duckfront/lib/serveza/services,$ProjectFileDir$/duckfront/lib/cachebuster.py $ProjectFileDir$" />
+      <option name="WORKING_DIRECTORY" value="$Projectpath$" />
     </exec>
   </tool>
 </toolSet>
