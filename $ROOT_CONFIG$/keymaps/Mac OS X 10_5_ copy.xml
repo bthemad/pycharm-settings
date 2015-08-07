@@ -43,6 +43,13 @@
   <action id="EditorPreviousWordInDifferentHumpsModeWithSelection">
     <keyboard-shortcut first-keystroke="shift control LEFT" />
   </action>
+  <action id="EditorSplitLine" />
+  <action id="EditorStartNewLine">
+    <keyboard-shortcut first-keystroke="meta ENTER" />
+  </action>
+  <action id="EditorStartNewLineBefore">
+    <keyboard-shortcut first-keystroke="shift meta ENTER" />
+  </action>
   <action id="EditorUpWithSelection">
     <keyboard-shortcut first-keystroke="shift UP" />
     <keyboard-shortcut first-keystroke="shift control P" />
