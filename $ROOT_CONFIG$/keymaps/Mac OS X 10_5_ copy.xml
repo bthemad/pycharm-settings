@@ -57,6 +57,9 @@
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta 7" />
   </action>
+  <action id="Macro.Colon-enter">
+    <keyboard-shortcut first-keystroke="shift ENTER" />
+  </action>
   <action id="NextEditorTab" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta CLOSE_BRACKET" />
