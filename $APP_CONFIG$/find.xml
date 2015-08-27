@@ -3,7 +3,7 @@
     <option name="customScope" value="Project 'python'" />
     <option name="defaultScopeName" value="Project 'python'" />
     <option name="SEARCH_SCOPE" value="Project 'python'" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="FILE_MASK" value="serializers.py" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -16,6 +16,7 @@
       <mask>*.mxml</mask>
       <mask>factories.py</mask>
       <mask>*.py</mask>
+      <mask>serializers.py</mask>
     </recentFileMasks>
   </component>
 </application>
