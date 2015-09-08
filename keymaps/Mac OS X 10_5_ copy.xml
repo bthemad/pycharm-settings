@@ -60,6 +60,12 @@
   <action id="Macro.Colon-enter">
     <keyboard-shortcut first-keystroke="shift ENTER" />
   </action>
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="shift control DOWN" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="shift control UP" />
+  </action>
   <action id="NextEditorTab" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta CLOSE_BRACKET" />
