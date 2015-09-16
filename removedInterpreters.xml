@@ -4,6 +4,8 @@
       <set>
         <option value="ssh://vagrant@127.0.0.1:22/home/vagrant/.virtualenvs/duckfront/bin/python" />
         <option value="ssh://vagrant@127.0.0.1:2222/home/vagrant/.virtualenvs/duckfront/bin/python" />
+        <option value="ssh://vagrant@127.0.0.1:2222/usr/bin/python" />
+        <option value="vagrant:///Users/alex/newrelic/ducktape/vagrant/home/vagrant/.virtualenvs/duckfront/bin/python" />
       </set>
     </option>
   </component>
