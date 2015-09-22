@@ -3,7 +3,6 @@
     <option name="customScope" value="Django apps" />
     <option name="defaultScopeName" value="Django apps" />
     <option name="SEARCH_SCOPE" value="Django apps" />
-    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
