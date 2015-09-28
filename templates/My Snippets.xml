@@ -23,12 +23,20 @@
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="pstart" value="print &quot;--- starting ---&quot;" toReformat="false" toShortenFQNames="true">
+  <template name="pstart" value="print &quot;--- start$text$ ---&quot;" toReformat="false" toShortenFQNames="true">
+    <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="pend" value="print &quot;--- end ---&quot;" toReformat="false" toShortenFQNames="true">
+  <template name="pend" value="print &quot;--- end$text$ ---&quot;" toReformat="false" toShortenFQNames="true">
+    <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="pdd" value="print &quot;--- $text$ ---&quot;" toReformat="false" toShortenFQNames="true">
+    <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Python" value="true" />
     </context>
