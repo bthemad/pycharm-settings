@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="Django apps" />
     <option name="defaultScopeName" value="Django apps" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Django apps" />
     <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
@@ -18,6 +16,7 @@
       <mask>factories.py</mask>
       <mask>serializers.py</mask>
       <mask>*.js</mask>
+      <mask>serializers/*.py</mask>
       <mask>*.py</mask>
     </recentFileMasks>
   </component>
