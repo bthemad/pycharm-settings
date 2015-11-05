@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="nrql_binop" type="PLAIN_TEXT" />
       <mapping pattern="nrql_unsupported_queries" type="PLAIN_TEXT" />
+      <mapping pattern="cds_bug" type="PLAIN_TEXT" />
       <mapping pattern="nrql_multiple_attributes" type="PLAIN_TEXT" />
       <mapping pattern="nrql_query_types" type="PLAIN_TEXT" />
       <mapping pattern="nrql_percentile" type="PLAIN_TEXT" />
