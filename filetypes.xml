@@ -13,6 +13,7 @@
       <mapping pattern="chart_data_new_format" type="PLAIN_TEXT" />
       <mapping pattern="nrql_apdex" type="PLAIN_TEXT" />
       <mapping pattern="barchart" type="PLAIN_TEXT" />
+      <mapping pattern="facet_multiple_attributes" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
